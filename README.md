@@ -1,7 +1,7 @@
 # Amateur-Radio
 业余无线电技术与应用。理论结合实践。
 ## 一点儿数学
-对信号的描述：<img src="https://www.codecogs.com/eqnedit.php?latex=m(t)=A\times&space;sin(\omega&space;\times&space;t),\omega&space;=2\pi&space;f" target="_blank"><img src="https://latex.codecogs.com/png.latex?m(t)=A\times&space;sin(\omega&space;\times&space;t),\omega&space;=2\pi&space;f" title="m(t)=A\times sin(\omega \times t),\omega =2\pi f" />
+对信号的描述：<img src="https://latex.codecogs.com/png.latex?m(t)=A\times&space;sin(\omega&space;\times&space;t),\omega&space;=2\pi&space;f" title="m(t)=A\times sin(\omega \times t),\omega =2\pi f" />
 ## 信号源
 ## 滤波器
 ## 编码
