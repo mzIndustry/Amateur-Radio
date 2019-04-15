@@ -1,7 +1,7 @@
 # Amateur-Radio
 业余无线电技术与应用。理论结合实践。
 ## 一点儿数学
-对信号的描述：<img src="https://latex.codecogs.com/gif.latex?m(t)=A\times&space;sin(\omega&space;\times&space;t&plus;\phi&space;),&space;\omega&space;=2\pi&space;f" title="m(t)=A\times sin(\omega \times t+\phi ), \omega =2\pi f" />，其中 f 是信号频率，A 是信号幅度，Φ 是相位。三个参数里面任何一个都可以作为携带信息的变量。
+对信号的描述：<a href="https://www.codecogs.com/eqnedit.php?latex=m(t)=A\times&space;sin(\omega&space;\times&space;t&plus;\phi&space;),&space;\omega&space;=2\pi&space;f" target="_blank"><img src="https://latex.codecogs.com/gif.latex?m(t)=A\times&space;sin(\omega&space;\times&space;t&plus;\phi&space;),&space;\omega&space;=2\pi&space;f" title="m(t)=A\times sin(\omega \times t+\phi ), \omega =2\pi f" /></a>，其中 f 是信号频率，A 是信号幅度，Φ 是相位。三个参数里面任何一个都可以作为携带信息的变量。
 ## 信号源
 ## 滤波器
 为什么需要滤波器？
